@@ -1,0 +1,29 @@
+class ApiConstants {
+  static const String login = '/auth/login';
+  static const String logout = '/auth/logout';
+  static const String me = '/auth/me';
+  static const String organizations = '/organizations';
+  static const String branches = '/branches';
+  static const String users = '/users';
+  static const String roles = '/roles';
+  static const String permissions = '/permissions';
+  static const String academicYears = '/academic-years';
+  static const String programs = '/programs';
+  static const String groups = '/groups';
+  static const String subjects = '/subjects';
+  static const String students = '/students';
+  static const String guardians = '/guardians';
+  static const String teachers = '/teachers';
+  static const String enrollments = '/enrollments';
+  static const String attendance = '/attendance';
+  static const String timetable = '/timetable';
+  static const String exams = '/exams';
+  static const String results = '/results';
+  static const String homework = '/homework';
+  static const String fees = '/fees';
+  static const String payments = '/payments';
+  static const String notices = '/notices';
+  static const String notifications = '/notifications';
+  static const String reports = '/reports';
+  static const String settings = '/settings';
+}
